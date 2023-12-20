@@ -9,6 +9,8 @@ public class EvenOROdd {
 		}else {
 			System.out.println("Given no is odd");
 		}
+
+		System.out.println("Thank you!");
 	}
 
 }
